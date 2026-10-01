@@ -1,9 +1,10 @@
 
 ## Hi, my alias is lsd
-<div style="height: 4px; background: linear-gradient(90deg, #000000 0%, #888888 50%, #ffffff 100%); width: 100%;"></div>
-  
-test test
 
-
-<div style="height: 4px; background: linear-gradient(90deg, #000000 0%, #888888 50%, #ffffff 100%); width: 100%;"></div>
+---
+*   **Role:** Aspiring Cybersecurity Specialist
+*   **Interests:** Penetration testing, vulnerability research, and hands-on InfoSec
+*   **Portfolio:** Here I publish write-ups of challenges from **TryHackMe** and **HackTheBox**
+*   **Goals:** Continuously expanding my collection of write-ups and improving my practical skills
+---
 
