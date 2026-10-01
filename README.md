@@ -12,5 +12,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/llsd9439-commits/llsd9439-commits/main/rezgif-7261d9b651543191.gif" style="width: 100%; height: auto;" alt="Pixel Rain" />
+  <img src="https://raw.githubusercontent.com/llsd9439-commits/llsd9439-commits/main/ezgif-7261d9b651543191.gif" style="width: 100%; height: auto;" alt="Pixel Rain" />
 </p>
