@@ -14,7 +14,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="rezgif-7261d9b651543191.gif" width="100%" />
+      <img src="https://raw.githubusercontent.com/llsd9439-commits/llsd9439-commits/main/ezgif-7261d9b651543191.gif" width="100%" />
     </td>
   </tr>
 </table>
